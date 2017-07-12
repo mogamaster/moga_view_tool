@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+MogaViewTool::Renderer.copyright 'Lauren Moga', 'All rights reserved'
+```
 
 ## Development
 
